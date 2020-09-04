@@ -1,3 +1,0 @@
-print('Hola a mi repositorio')
-n = input('Ingrese su nombre')
-print('Bienvenid@', n)
