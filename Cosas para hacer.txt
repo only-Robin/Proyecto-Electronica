@@ -1,11 +1,11 @@
 1. Histograma de irradiación media diaria: Cantidad de días Vs Rango de Irradiación ✓✓✓
-2. Histograma de temperatura media diaria: Cantidad de días Vs Temperaturas medias
+2. Histograma de temperatura media diaria: Cantidad de días Vs Temperaturas medias ✓✓✓
 
-3. Gráfica de temperatura media por instante de tiempo: Temperatura Media Vs Tiempo
-4. Gráfica de irradiación media por instante de tiempo: Irradiación Media Vs Tiempo
+3. Gráfica de temperatura media por instante de tiempo: Temperatura Media Vs Tiempo ✓✓✓
+4. Gráfica de irradiación media por instante de tiempo: Irradiación Media Vs Tiempo ✓✓✓
 
-5. Obtener PDF de la irradiación solar media y de la temperatura
-6. Buscar la distribución que se adecúe a la PDF de la irradiación y temperatura en (5.).
+5. Obtener PDF de la irradiación solar media y de la temperatura 
+6. Buscar la distribución que se adecúe a la PDF de la irradiación y temperatura en (5.). 
 
 7. Obtener índice de desempeño de la planta
 8. Obtener el aporte o la participación de la planta en la energía del SD:
