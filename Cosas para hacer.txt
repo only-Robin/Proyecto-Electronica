@@ -4,13 +4,13 @@
 3. Gráfica de temperatura media por instante de tiempo: Temperatura Media Vs Tiempo ✓✓✓
 4. Gráfica de irradiación media por instante de tiempo: Irradiación Media Vs Tiempo ✓✓✓
 
-5. Obtener PDF de la irradiación solar media y de la temperatura 
+5. Obtener PDF de la irradiación solar media y de la temperatura ✓
 6. Buscar la distribución que se adecúe a la PDF de la irradiación y temperatura en (5.). 
 
-7. Obtener índice de desempeño de la planta
-8. Obtener el aporte o la participación de la planta en la energía del SD:
+7. Obtener índice de desempeño de la planta ✓✓✓
+8. Obtener el aporte o la participación de la planta en la energía del SD: ✓✓✓
 	- Grafica de barras anual.
 	- Estimación del precio ahorrado.
 
-9. Gráfica de barras de potencia e irradiación por meses.
+9. Gráfica de barras de potencia e irradiación por meses.✓✓✓
 10. Matriz de Correlación ✓✓✓
