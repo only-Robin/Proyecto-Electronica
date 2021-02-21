@@ -1,0 +1,20 @@
+Modelos de persistencia: Ready
+
+Modelos SARIMA: F
+
+Modelos Redes Neuronales Artificiales sencillas:
+
+Modelos LSTM:
+	- Soleado
+
+	- Parcialmente nublado
+
+	- Nublado
+
+	- Total
+	
+	Parámetros: 
+
+Modelos Wavelet con LSTM:
+
+	

@@ -1,0 +1,22 @@
+Diego:	Introducción
+Robin:	Planta de generación solar PV Uniandes:
+	  - Características técnicas 
+	  - 
+	  - 
+	  - 
+	  - 
+
+Referencias:
+
+Á. A. Ramírez Maldonado, «Sistema Solar Fotovoltaico del Edificio Julio: MANUAL PEDAGÓGICO DE USUARIO,» Bogotá DC, 2020.
+
+
+Estacion meteorologica y sistema de monitoreo: 
+
+1.Meteocontrol Data logger Blue’Log XM200
+2.Meteocontrol MX - Module RS485 / 422
+3.Plataformas VCOM y Blue’Log
+4.Sensor de irradiancia Meteocontrol SI-V010-T
+5.Estación Meteorológica Compacta
+WS501-UMB
+	
